@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 💬 Ask me about QQ:1064888862
+### 🌱 I’m currently learning https://camo.githubusercontent.com/be7e031ad3e9583082c92bf654cbb7a80dd0a41d3318ef04048800115bdf04e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3866636664313f7374796c653d706c6173746963266c6f676f3d507974686f6e
 <!--
 **NNanfeng/NNanfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
